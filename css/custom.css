@@ -1,1 +1,21 @@
 /* your styles go here */
+.btn-danger {
+  background-color: #fc0000;
+  border-color: #fc0000;
+}
+
+p.h6.text-uppercase.text-danger {
+  color: #fc0000 !important;
+}
+
+a.active.nav-link {
+  color: #fc0000;
+}
+
+a.nav-link:hover {
+  color: #fc0000;
+}
+
+a.navbar-brand {
+  font-weight: bolder;
+}
